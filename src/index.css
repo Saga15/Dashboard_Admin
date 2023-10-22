@@ -33,3 +33,12 @@ body,
 ::-webkit-scrollbar-thumb:hover {
   background: #555;
 }
+
+.create{
+  margin: 150px;
+  /* text-align: center; */
+}
+.calendars{
+  display: flex;
+  flex-direction: row;
+}
